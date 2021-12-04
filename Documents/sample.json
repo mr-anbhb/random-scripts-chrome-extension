@@ -1,0 +1,56 @@
+{
+    "user_data": [
+        {
+         "name": "Anubhab@Bhatta",
+         "email":"mr.anbhb@gmail.com",
+         "password": "anbb(40))78o8Ghuy7y890!",
+         "crypto_address":"021fac85419aded5b81bd5c2867b423b255dc7512f3917c63d52c12e2fee92403",
+         "position": "stakeholder",
+         "reciver adresses":[
+{
+    "serialNo":1,
+    "address": "0319b983781285fd4939f4ebcd24f41617321a6f55aadfcdd34eb62fcbb31c5a87"
+},
+{
+    "serialNo":2,
+    "address": "02eed3e09f2f676904ce97d824d13ca803bf566f26cf74b9a510e2fe22443a3142"
+},
+{
+    "serialNo":3,
+    "address": "b2c586286000f98dd4af8b914e1a5c2b7475ed887ecc52acc34b937bcfb43b61"
+},
+{
+    "serialNo":4,
+    "address": "03810f1f0f61a124df71dad8a98706edad687bbb401497a4403349abccecfb2d38"
+}
+         ],
+         "coins": [
+{
+    "name": "bitcoin",
+    "registrar": "BTC",
+    "value": "35,09,903.11INR",
+    "issued_date": "4th dec"
+},
+{
+    "name": "ethereum",
+    "registrar": "ETH",
+    "value": "2,91,642.07INR",
+    "issued_date": "6th nov"
+},
+{
+    "name": "Libra",
+    "registrar": "LC",
+    "value": "4.188959INR",
+    "issued_date": "11th mar"
+},
+{
+    "name": "dogecoin",
+    "registrar": "DOGE",
+    "value": "12.21INR",
+    "issued_date": "4th apr"
+}
+         ],
+         "timestamp": "17:22:07 UTC"
+        }
+    ]
+}
