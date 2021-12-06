@@ -1,0 +1,1 @@
+# It is a simple chrome extension to launch your personalized scripts on current tabs!
