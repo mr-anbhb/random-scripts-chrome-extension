@@ -1,0 +1,15 @@
+{
+    "name": "random-scripts",
+    "version": "1.0.0",
+    "description":"It is a simple chrome extension to launch your personalized scripts on current tabs!",
+    "manifest_version": 3,
+    "icons": { "128": "128.png"},
+    "permissions": [
+        "tabs",
+        "activeTab"
+      ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {}
+  }
